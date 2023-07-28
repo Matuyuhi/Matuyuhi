@@ -5,8 +5,9 @@
 |-------------------------------|-----------------------------------------------------------------|----------------------------------------|
 | Web 開発                        | HTML, CSS, JavaScript, React, Angular, Bootstrap, EJS, Express.js, Node.js | JavaScript, HTML, CSS      |
 | モバイルアプリ開発              | Swift(UIKit), Kotlin(XML, Jetpack Compose)           | Swift, Kotlin, Java        |
-| バックエンド開発                | Java, Express.js, Node.js| Java, JavaScript, C#    |
-| データベース                    | SQL (MySQL), NoSQL Firebase) | SQL, NoSQL                            |
+| ゲーム開発              | Unity, Unreal Engine          | C++, C#        |
+| バックエンド開発                | Node.js、Boost| JavaScript, C++    |
+| データベース                    | SQL (MySQL), NoSQL (Firebase) | SQL, NoSQL                            |
 | ツール・環境                    | Git, GitHub, Visual Studio Code, IntelliJ IDEA, Slack   | -                                      |
 | データ処理                      | Pandas, NumPy, SciPy, Spark, Hadoop                             | Python, Java                   |
 | 普段使う言語                    | Python, JavaScript, Swift, Java, Ruby, TypeScript, Kotlin, C++, C#   | - |
