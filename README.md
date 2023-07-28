@@ -9,7 +9,7 @@
 | バックエンド開発                | Node.js、Boost| JavaScript, C++    |
 | データベース                    | SQL (MySQL), NoSQL (Firebase) | SQL, NoSQL                            |
 | ツール・環境                    | Git, GitHub, Visual Studio Code, IntelliJ IDEA, Slack, Ubuntu, MacOS, Docker   | -                                      |
-| データ処理                      | Pandas, NumPy, OpenCV, gnuplot                             | Python, Java                   |
+| データ処理                      | Pandas, NumPy, OpenCV, gnuplot                             | Python, Java, ruby, C++                   |
 | CG                            | OpenGL | C, C++ |
 | 普段使う言語                    | Python, JavaScript, Swift, Java, Ruby, TypeScript, Kotlin, C++, C#   | - |
 <!--
