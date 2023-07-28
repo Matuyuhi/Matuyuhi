@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+| 項目                           | 使用技術                                                        | 使用可能言語                              |
+|-------------------------------|-----------------------------------------------------------------|----------------------------------------|
+| Web 開発                        | HTML, CSS, JavaScript, React, Angular, Bootstrap, EJS, Express.js, Node.js | JavaScript, HTML, CSS      |
+| モバイルアプリ開発              | Swift(UIKit), Kotlin(XML, Jetpack Compose)           | Swift, Kotlin, Java        |
+| バックエンド開発                | Java, Express.js, Node.js| Java, JavaScript, C#    |
+| データベース                    | SQL (MySQL), NoSQL Firebase) | SQL, NoSQL                            |
+| ツール・環境                    | Git, GitHub, Visual Studio Code, IntelliJ IDEA, Slack   | -                                      |
+| データ処理                      | Pandas, NumPy, SciPy, Spark, Hadoop                             | Python, Java                   |
+| 普段使う言語                    | Python, JavaScript, Swift, Java, Ruby, TypeScript, Kotlin, C++, C#   | - |
 <!--
 **Matuyuhi/Matuyuhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
