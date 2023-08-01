@@ -8,7 +8,7 @@
 
 | 項目                           | 使用技術                                                        | 使用可能言語                              |
 |-------------------------------|-----------------------------------------------------------------|----------------------------------------|
-| Web 開発                        | HTML, CSS, JavaScript, React, Bootstrap, EJS, Express.js, Node.js | TypeScript, JavaScript, HTML, CSS      |
+| Web 開発                        | HTML, CSS, JavaScript, React, Bootstrap, EJS, Express.js, Node.js, vps | TypeScript, JavaScript, HTML, CSS      |
 | モバイルアプリ開発              | Xcode UIKit), Android Studio (XML, Jetpack Compose)           | Swift, Kotlin, Java        |
 | ゲーム開発                     | Unity, Unreal Engine          | C++, C#        |
 | バックエンド開発                | Node.js、Boost| TypeScript, JavaScript, C++    |
@@ -33,7 +33,7 @@
 - データベースとやりとりしてシフトを管理するWebアプリ
 - cssはBootstrapをカスタム
 - ios, androidアプリと連携できるAPIも用意
-- [デモページ](https://yuhi.tokyo/demo/shift)を用意済み
+- [デモページ](https://yuhi.tokyo/demo/shift) vpsサーバーにUbuntu+Nginxで
 ### [勤務管理のAndroidアプリ](https://github.com/Matuyuhi/shiftapp_android)
 - `勤務管理のWebApp`からデータを取得して画面に表示＋シフトの入力が出来るアプリ
 - Android Studioで作成中
