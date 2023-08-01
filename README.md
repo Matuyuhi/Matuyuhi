@@ -23,7 +23,7 @@
 
 ### [unity animation library](https://github.com/Matuyuhi/AnimationPro)
 - コードベースでカスタム可能な、UIのアニメーションライブラリ
-- npmで配布
+- [npm](https://www.npmjs.com/package/com.matuyuhi.animationpro)で配布
 
 ### [C++ http server](https://github.com/Matuyuhi/cpp-http-server)
 - C++でBoostを使用したhttpサーバー
