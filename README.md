@@ -5,7 +5,7 @@
   <img alt="github stats" width="35%" src="https://raw.githubusercontent.com/Matuyuhi/Matuyuhi/main/profile-summary-card-output/apprentice/3-stats.svg" />
 </p>
 
-![](https://github-profile-trophy.vercel.app/?username=Matuyuhi&theme=gruvbox&count_private=true&no-frame=true&column=4)
+![](https://github-profile-trophy.vercel.app/?username=Matuyuhi&theme=gruvbox&count_private=true&no-frame=true&column=5&rank=-C)
 
 ---
 
