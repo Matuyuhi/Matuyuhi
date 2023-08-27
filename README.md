@@ -1,5 +1,11 @@
 # Profile
-![](https://raw.githubusercontent.com/Matuyuhi/Matuyuhi/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)
+
+<p align="left"> 
+  <img alt="Top Langs" width="35%"src="https://raw.githubusercontent.com/Matuyuhi/Matuyuhi/main/profile-summary-card-output/apprentice/2-most-commit-language.svg" />
+  <img alt="github stats" width="35%" src="https://raw.githubusercontent.com/Matuyuhi/Matuyuhi/main/profile-summary-card-output/apprentice/3-stats.svg" />
+</p>
+
+![](https://github-profile-trophy.vercel.app/?username=Matuyuhi&theme=gruvbox&count_private=true&no-frame=true&column=4)
 
 ---
 
