@@ -9,21 +9,6 @@
 
 ---
 
-## Info
-
-| 項目                           | 使用技術                                                        |
-|-------------------------------|-----------------------------------------------------------------|
-| Web 開発                        | HTML, CSS, JavaScript, React, Bootstrap, EJS, Express.js, Node.js, vps | 
-| モバイルアプリ開発              | Xcode UIKit), Android Studio (XML, Jetpack Compose)           | 
-| ゲーム開発                     | Unity, Unreal Engine          |
-| バックエンド開発                | Node.js、Boost|
-| データベース                    | SQL (MySQL) |
-| ツール・環境                    | Git, GitHub, JetBrains IDE, Qodana, Slack, Docker, Figma, Miro, Firebase   | 
-| データ処理                      | Pandas, NumPy, OpenCV, Gnuplot                             |
-| CG                            | OpenGL |
-| 普段使う言語                    | Python, JavaScript, Swift, Java, Ruby, TypeScript, Kotlin, C++, C#   | 
----
-
 ## Works
 
 ### [unity animation library](https://github.com/Matuyuhi/AnimationPro)
