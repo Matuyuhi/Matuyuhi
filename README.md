@@ -34,5 +34,5 @@
 - githubのwebhookにNode.jsで作成したサーバーを指定し、Discord内に通知を送るBot
 - データベースにDiscordとgithubのユーザー情報を保存し、Githubのユーザー名をDiscordの名前に自動変換。これにより、Discord内でもメンションで通知が届く
 
-### Metalでアプリ作成
+### [Metalでアプリ作成](https://github.com/Matuyuhi/metal_example)
 - Xcode + Metal環境でios/mac向けのアプリを作成中
