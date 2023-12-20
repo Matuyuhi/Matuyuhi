@@ -5,9 +5,24 @@
 <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Matuyuhi&theme=gruvbox&count_private=true&no-frame=true&column=5&rank=-C" />
 
 ---
-- works  
-![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,js,html,css,arduino,aws,blender,bootstrap,c,cs,cpp,cmake,codepen,docker,electron,figma,go,idea,java,kotlin,linux,maven,mysql,nginx,nodejs,py,raspberrypi,react,ruby,sass,stackoverflow,swift,tailwind,ts,unity,unreal,vscode,vue)
+<!--- - works  
+![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,js,html,css,arduino,aws,blender,bootstrap,c,cs,cpp,cmake,codepen,docker,electron,figma,go,idea,java,kotlin,linux,maven,mysql,nginx,nodejs,py,raspberrypi,react,ruby,sass,stackoverflow,swift,tailwind,ts,unity,unreal,vscode,vue,bots,express,firebase,gradle,jquery,sqlite,wordpress) --->
+- **languages**  
+![languages](https://skillicons.dev/icons?i=c,cpp,cs,go,html,java,js,kotlin,py,ruby,sass,swift,ts)
+- **frontend**  
+![languages](https://skillicons.dev/icons?i=angular,bootstrap,css,jquery,react,tailwind,vue)
+- **backend**  
+![languages](https://skillicons.dev/icons?i=express,firebase,nodejs)
+- **db&server**  
+![languages](https://skillicons.dev/icons?i=mysql,nginx,sqlite)
+- **tools**  
+![languages](https://skillicons.dev/icons?i=androidstudio,arduino,aws,blender,cmake,codepen,docker,electron,figma,idea,linux,maven,raspberrypi,stackoverflow,vscode,wordpress)
+- **gameengine**  
+![languages](https://skillicons.dev/icons?i=unity,unreal)
+- **more**  
+![languages](https://skillicons.dev/icons?i=bots,discord,gradle)
 
+and more, including Metal and OpenGL...
 <!--- ### [unity animation library](https://github.com/Matuyuhi/AnimationPro)
 - コードベースでカスタム可能な、UIのアニメーションライブラリ
 - [npm](https://www.npmjs.com/package/com.matuyuhi.animationpro)で配布
