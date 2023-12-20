@@ -5,8 +5,10 @@
 <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Matuyuhi&theme=gruvbox&count_private=true&no-frame=true&column=5&rank=-C" />
 
 ---
+- works  
+![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,js,html,css,arduino,aws,blender,bootstrap,bash,c,cs,cpp,cmake,codepen,docker,electron,figma,go,idea,java,kotlin,linux,md,maven,mysql,neovim,nextjs,nginx,nodejs,prisma,py,raspberrypi,react,ruby,sass,stackoverflow,swift,tailwind,ts,unity,unreal,vscode,vue,xd)
 
-### [unity animation library](https://github.com/Matuyuhi/AnimationPro)
+<!--- ### [unity animation library](https://github.com/Matuyuhi/AnimationPro)
 - コードベースでカスタム可能な、UIのアニメーションライブラリ
 - [npm](https://www.npmjs.com/package/com.matuyuhi.animationpro)で配布
 
@@ -32,4 +34,5 @@
 - データベースにDiscordとgithubのユーザー情報を保存し、Githubのユーザー名をDiscordの名前に自動変換。これにより、Discord内でもメンションで通知が届く
 
 ### [Metalでアプリ作成](https://github.com/Matuyuhi/metal_example)
-- Xcode + Metal環境でios/mac向けのアプリを作成中
+- Xcode + Metal環境でios/mac向けのアプリを作成中 --->
+
