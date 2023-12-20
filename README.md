@@ -6,7 +6,7 @@
 
 ---
 - works  
-![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,js,html,css,arduino,aws,blender,bootstrap,bash,c,cs,cpp,cmake,codepen,docker,electron,figma,go,idea,java,kotlin,linux,md,maven,mysql,neovim,nextjs,nginx,nodejs,prisma,py,raspberrypi,react,ruby,sass,stackoverflow,swift,tailwind,ts,unity,unreal,vscode,vue)
+![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,js,html,css,arduino,aws,blender,bootstrap,c,cs,cpp,cmake,codepen,docker,electron,figma,go,idea,java,kotlin,linux,maven,mysql,neovim,nextjs,nginx,nodejs,prisma,py,raspberrypi,react,ruby,sass,stackoverflow,swift,tailwind,ts,unity,unreal,vscode,vue)
 
 <!--- ### [unity animation library](https://github.com/Matuyuhi/AnimationPro)
 - コードベースでカスタム可能な、UIのアニメーションライブラリ
