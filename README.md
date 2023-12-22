@@ -8,15 +8,15 @@
 <!--- - works  
 ![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,js,html,css,arduino,aws,blender,bootstrap,c,cs,cpp,cmake,codepen,docker,electron,figma,go,idea,java,kotlin,linux,maven,mysql,nginx,nodejs,py,raspberrypi,react,ruby,sass,stackoverflow,swift,tailwind,ts,unity,unreal,vscode,vue,bots,express,firebase,gradle,jquery,sqlite,wordpress) --->
 - **languages**  
-![languages](https://skillicons.dev/icons?i=c,cpp,cs,go,html,java,js,kotlin,py,ruby,sass,swift,ts)
+![languages](https://skillicons.dev/icons?i=c,cpp,cs,go,html,java,js,kotlin,py,ruby,sass,swift,ts&perline=5)
 - **frontend**  
-![languages](https://skillicons.dev/icons?i=angular,bootstrap,css,jquery,react,tailwind,vue)
+![languages](https://skillicons.dev/icons?i=angular,bootstrap,css,jquery,react,tailwind,vue&perline=5)
 - **backend**  
-![languages](https://skillicons.dev/icons?i=express,firebase,nodejs)
+![languages](https://skillicons.dev/icons?i=express,firebase,nodejs&perline=5)
 - **db&server**  
-![languages](https://skillicons.dev/icons?i=mysql,nginx,sqlite)
+![languages](https://skillicons.dev/icons?i=mysql,nginx,sqlite&perline=5)
 - **tools**  
-![languages](https://skillicons.dev/icons?i=androidstudio,arduino,aws,blender,cmake,codepen,docker,electron,figma,idea,linux,maven,raspberrypi,stackoverflow,vscode,wordpress)
+![languages](https://skillicons.dev/icons?i=androidstudio,arduino,aws,blender,cmake,codepen,docker,electron,figma,idea,linux,maven,raspberrypi,stackoverflow,vscode,wordpress&perline=5)
 - **gameengine**  
 ![languages](https://skillicons.dev/icons?i=unity,unreal)
 - **more**  
