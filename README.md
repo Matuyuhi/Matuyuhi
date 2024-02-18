@@ -1,8 +1,8 @@
 
 ![](https://raw.githubusercontent.com/Matuyuhi/Matuyuhi/main/profile-summary-card-output/apprentice/2-most-commit-language.svg)
-  ![](https://raw.githubusercontent.com/Matuyuhi/Matuyuhi/main/profile-summary-card-output/apprentice/3-stats.svg)
+![](https://raw.githubusercontent.com/Matuyuhi/Matuyuhi/main/profile-summary-card-output/apprentice/3-stats.svg)
 
-<img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Matuyuhi&theme=gruvbox&count_private=true&no-frame=true&column=5&rank=-C" />
+<img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Matuyuhi&theme=gruvbox&count_private=true&no-frame=true&column=6&rank=-C" />
 
 ---
 ![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,js,html,css,arduino,aws,blender,bootstrap,c,cs,cpp,cmake,codepen,docker,electron,figma,go,idea,java,kotlin,linux,maven,mysql,nginx,nodejs,py,raspberrypi,react,ruby,sass,stackoverflow,swift,tailwind,ts,unity,unreal,vscode,vue,bots,express,firebase,gradle,jquery,sqlite,rust&perline=10)
