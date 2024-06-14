@@ -11,7 +11,7 @@
 
 
 ---
-![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,js,html,css,arduino,aws,bootstrap,c,cs,cpp,cmake,codepen,docker,electron,figma,go,idea,java,kotlin,linux,mysql,next,nginx,nodejs,py,raspberrypi,react,ruby,stackoverflow,swift,tailwind,ts,unity,unreal,vue,bots,express,firebase,gradle,jquery,rust&perline=10)
+![My Skills](https://skillicons.dev/icons?i=githubactions,ktor,notion,androidstudio,idea,rider,clion,pycharm,atom,vim,firebase,gradle,codepen,docker,cmake,materialui,unity,unreal,angular,arduino,npm,raspberrypi,linux,ubuntu,react,aws,bootstrap,figma,nginx,nodejs,vue,discordjs,django,express,bash,js,html,css,c,cs,cpp,go,java,kotlin,mysql,next,py,ruby,swift,ts,rust&perline=10)
 <!--- - **languages**  
 ![languages](https://skillicons.dev/icons?i=c,cpp,cs,go,html,java,js,kotlin,py,ruby,sass,swift,ts,rust&perline=5)
 - **frontend**  
