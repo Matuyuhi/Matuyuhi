@@ -1,8 +1,14 @@
-
+![](https://github-readme-stats-c-qfi4.vercel.app/api?username=matuyuhi&show=reviews,prs_merged,prs_merged_percentage&hide=&rank_icon=percentile&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<br>
+<!--
 ![](https://raw.githubusercontent.com/Matuyuhi/Matuyuhi/main/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/Matuyuhi/Matuyuhi/main/profile-summary-card-output/discord_old_blurple/3-stats.svg)
+-->
+<div style="display: flex; flex-direction: row;">
+  <img height=200 alt="languages" src="https://raw.githubusercontent.com/Matuyuhi/Matuyuhi/main/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg" />
+  <img height=200 alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Matuyuhi&theme=gruvbox&count_private=true&no-frame=true&column=5&rank=-C" />
+</div>
 
-<img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Matuyuhi&theme=gruvbox&count_private=true&no-frame=true&column=6&rank=-C" />
 
 ---
 ![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,js,html,css,arduino,aws,bootstrap,c,cs,cpp,cmake,codepen,docker,electron,figma,go,idea,java,kotlin,linux,mysql,next,nginx,nodejs,py,raspberrypi,react,ruby,stackoverflow,swift,tailwind,ts,unity,unreal,vue,bots,express,firebase,gradle,jquery,rust&perline=10)
