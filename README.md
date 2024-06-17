@@ -11,9 +11,11 @@
 
 
 ---
-![My Skills](https://skillicons.dev/icons?i=githubactions,ktor,notion,androidstudio,idea,rider,clion,pycharm,atom,vim,firebase,gradle,codepen,docker,cmake,materialui,unity,unreal,angular,arduino,npm,raspberrypi,linux,ubuntu,react,next,aws,bootstrap,figma,nginx,nodejs,vue,discordjs,django,express,bash&perline=10)
+![My Languages](https://skillicons.dev/icons?i=js,ts,html,css,c,cs,cpp,go,java,kotlin,mysql,py,ruby,swift,rust&perline=10)
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,c,cs,cpp,go,java,kotlin,mysql,py,ruby,swift,rust&perline=10)
+![My Skills](https://skillicons.dev/icons?i=githubactions,ktor,notion,androidstudio,idea,rider,clion,pycharm,atom,vim,firebase,gradle,codepen,docker,cmake,materialui,unity,unreal,angular,arduino,npm,raspberrypi,linux,ubuntu,react,next,aws,bootstrap,figma,nginx,nodejs,vue,discordjs,django,express,bash,autocad,ae,ai,ps,pr&perline=10)
+
+
 <!--- - **languages**  
 ![languages](https://skillicons.dev/icons?i=c,cpp,cs,go,html,java,js,kotlin,py,ruby,sass,swift,ts,rust&perline=5)
 - **frontend**  
