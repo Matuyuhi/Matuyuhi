@@ -22,7 +22,7 @@
 ![My App](https://skillicons.dev/icons?i=androidstudio,idea,rider,clion,pycharm,atom,vim,codepen,unity,unreal,autocad,ae,ai,ps,pr&perline=10)
 
 ### Service
-![My App](https://skillicons.dev/icons?i=notion,firebase,docker,angular,arduino,linux,ubuntu,aws,figma,nginx,bash&perline=10)
+![My App](https://skillicons.dev/icons?i=notion,firebase,docker,arduino,linux,ubuntu,aws,figma,nginx,bash&perline=10)
 
 <!--- - **languages**  
 ![languages](https://skillicons.dev/icons?i=c,cpp,cs,go,html,java,js,kotlin,py,ruby,sass,swift,ts,rust&perline=5)
