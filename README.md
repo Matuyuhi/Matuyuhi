@@ -16,7 +16,7 @@
 ![My Language](https://skillicons.dev/icons?i=js,ts,html,css,c,cs,cpp,go,java,kotlin,mysql,py,ruby,swift,rust&perline=10)
 
 ### Library
-![My Library](https://skillicons.dev/icons?i=githubactions,ktor,gradle,cmake,materialui,angular,npm,react,next,bootstrap,nodejs,vue,discordjs,django,express,angular&perline=10)
+![My Library](https://skillicons.dev/icons?i=githubactions,ktor,gradle,cmake,materialui,angular,npm,react,next,bootstrap,nodejs,vue,discordjs,django,express&perline=10)
 
 ### Application
 ![My App](https://skillicons.dev/icons?i=androidstudio,idea,rider,clion,pycharm,atom,vim,codepen,unity,unreal,autocad,ae,ai,ps,pr&perline=10)
