@@ -13,8 +13,8 @@
 
 ---
 ### Launguage
-![My Language](https://skillicons.dev/icons?i=js,ts,html,css,c,cs,cpp,go,java,kotlin,mysql,py,ruby,swift,rust&perline=10)
-
+![Language](https://skillicons.dev/icons?i=js,ts,html,css,c,cs,cpp,go,java,kotlin,mysql,py,ruby,swift,rust&perline=10)
+<!---
 ### Library
 ![My Library](https://skillicons.dev/icons?i=githubactions,ktor,gradle,cmake,materialui,angular,npm,react,next,bootstrap,nodejs,vue,discordjs,django,express&perline=10)
 
@@ -23,7 +23,7 @@
 
 ### Service
 ![My App](https://skillicons.dev/icons?i=notion,firebase,docker,arduino,linux,ubuntu,aws,figma,nginx,bash&perline=10)
-
+--->
 <!--- - **languages**  
 ![languages](https://skillicons.dev/icons?i=c,cpp,cs,go,html,java,js,kotlin,py,ruby,sass,swift,ts,rust&perline=5)
 - **frontend**  
