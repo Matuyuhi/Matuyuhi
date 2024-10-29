@@ -18,4 +18,4 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "update/summary-card"
-          EXCLUDE: "ShaderLab,JavaScript"
+          EXCLUDE: "ShaderLab"
