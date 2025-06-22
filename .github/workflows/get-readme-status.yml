@@ -26,17 +26,7 @@ jobs:
         # ここをSVGを取得したいURLに変更してください
         curl -o svg/image.svg https://github-readme-status-clone-01.vercel.app/api?username=matuyuhi&show=reviews,prs_merged,prs_merged_percentage&hide=stars&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true
 
-    - name: Check for changes
-      id: git_status
-      run: |
-        if git diff --exit-code --quiet; then
-          echo "no_changes=true" >> $GITHUB_OUTPUT
-        else
-          echo "no_changes=false" >> $GITHUB_OUTPUT
-        fi
-
     - name: Commit and Push if changed
-      if: steps.git_status.outputs.no_changes == 'false'
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
