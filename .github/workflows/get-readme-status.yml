@@ -4,9 +4,6 @@ on:
   schedule: # execute every 24 hours
     - cron: "0 0 */2 * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main # mainブランチへのプッシュ時に実行。必要に応じて変更してください。
 
 jobs:
   fetch_and_push_svg:
