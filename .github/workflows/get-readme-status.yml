@@ -15,8 +15,10 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: Create SVG directory
-      run: mkdir -p svg
+    - name: recreate SVG directory
+      run: |
+        rm -rf svg/image.svg
+        mkdir -p svg
 
     - name: Fetch SVG content
       run: |
