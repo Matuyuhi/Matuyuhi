@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Yuhi Yamane's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 15, Total Commits in 2025 : 1801, Total PRs: 915, Total Issues: 224, Contributed to (last year): 30</desc>
+        <desc id="descId">Total Stars Earned: 15, Total Commits in 2025 : 1777, Total PRs: 915, Total Issues: 224, Contributed to (last year): 30</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 75.2412508317701;
+        stroke-dashoffset: 75.26079849175201;
       }
     }
   
