@@ -16,6 +16,13 @@
 ---
 
 ![Language](https://skillicons.dev/icons?i=js,ts,html,css,c,cs,cpp,go,java,kotlin,mysql,py,ruby,swift,rust&perline=10)
+
+---
+
+## Current Projects
+
+### [Ludiscan](https://github.com/ludiscan) - Game Analytics Platform
+ゲームプレイデータの収集・可視化・分析を行うプラットフォーム。プレイヤーの行動追跡、ヒートマップ生成、AI駆動のルートコーチング機能を提供。
 <!---
 ### Library
 ![My Library](https://skillicons.dev/icons?i=githubactions,ktor,gradle,cmake,materialui,angular,npm,react,next,bootstrap,nodejs,vue,discordjs,django,express&perline=10)
