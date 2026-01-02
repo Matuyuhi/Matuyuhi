@@ -23,6 +23,15 @@
 
 ### [Ludiscan](https://github.com/ludiscan) - Game Analytics Platform
 ゲームプレイデータの収集・可視化・分析を行うプラットフォーム。プレイヤーの行動追跡、ヒートマップ生成、AI駆動のルートコーチング機能を提供。
+
+### [z-render](https://github.com/Matuyuhi/z-render) - Software 3D Renderer
+GPUを使わずCPU上で完全な3Dグラフィックスパイプラインをソフトウェアレンダリングするプロジェクト。Zig + WebAssemblyで実装し、SIMD最適化とゼロアロケーション設計により高速な描画を実現。
+
+### [zig-css-engine](https://github.com/Matuyuhi/zig-css-engine) - CSS Engine
+Zig言語で実装したCSSエンジン。z-renderと連携してブラウザレンダリングの基盤を構築。
+
+### [adamant](https://github.com/Matuyuhi/adamant) - GPU-Accelerated Terminal
+Rustで開発された高性能GPU加速型ターミナルエミュレータ。wgpuを使用しVulkan/Metal/DX12に対応、ゲームエンジンの最適化技術を応用した4K/120fps描画を目指す。
 <!---
 ### Library
 ![My Library](https://skillicons.dev/icons?i=githubactions,ktor,gradle,cmake,materialui,angular,npm,react,next,bootstrap,nodejs,vue,discordjs,django,express&perline=10)
