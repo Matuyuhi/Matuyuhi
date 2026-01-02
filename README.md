@@ -28,7 +28,7 @@
 GPUを使わずCPU上で完全な3Dグラフィックスパイプラインをソフトウェアレンダリングするプロジェクト。Zig + WebAssemblyで実装し、SIMD最適化とゼロアロケーション設計により高速な描画を実現。
 
 ### [zig-css-engine](https://github.com/Matuyuhi/zig-css-engine) - CSS Engine
-Zig言語で実装したCSSエンジン。z-renderと連携してブラウザレンダリングの基盤を構築。
+Zig + WebAssemblyで実装した高性能CSSエンジン。データ指向設計（DoD）を徹底し、SoAによるメモリ最適化、Bloom Filterによる高速セレクタマッチング、バイトコードVMでのセレクタ実行を実現。
 
 ### [adamant](https://github.com/Matuyuhi/adamant) - GPU-Accelerated Terminal
 Rustで開発された高性能GPU加速型ターミナルエミュレータ。wgpuを使用しVulkan/Metal/DX12に対応、ゲームエンジンの最適化技術を応用した4K/120fps描画を目指す。
