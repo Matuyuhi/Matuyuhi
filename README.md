@@ -8,7 +8,7 @@
 <div style="display: flex; flex-direction: row;">
   <img height=200 alt="languages" src="https://raw.githubusercontent.com/Matuyuhi/Matuyuhi/main/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg" />
 
-  <img height=200 alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Matuyuhi&count_private=true&no-frame=true&column=5&rank=-B" />
+  <img height=200 alt="Trophy" src="https://github-profile-trophy-fork-two.vercel.app?username=Matuyuhi&count_private=true&no-frame=true&column=5&rank=-B" />
 
 </div>
 
