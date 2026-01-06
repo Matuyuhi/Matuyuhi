@@ -1,17 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=matuyuhi)<br/>
-![](/svg/image.svg)
 <br>
 <!--
 ![](https://raw.githubusercontent.com/Matuyuhi/Matuyuhi/main/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/Matuyuhi/Matuyuhi/main/profile-summary-card-output/discord_old_blurple/3-stats.svg)
 -->
 <div style="display: flex; flex-direction: row;">
+  <img src="/svg/image.svg" />
   <img height=200 alt="languages" src="https://raw.githubusercontent.com/Matuyuhi/Matuyuhi/main/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg" />
-
-  <img height=200 alt="Trophy" src="https://github-profile-trophy-fork-two.vercel.app?username=Matuyuhi&count_private=true&no-frame=true&column=5&rank=-B" />
-
 </div>
 
+<img height=200 alt="Trophy" src="/svg/trophy.svg" />
 
 ---
 
