@@ -22,13 +22,15 @@ jobs:
 
     - name: Fetch SVG content
       run: |
-        # ここをSVGを取得したいURLに変更してください
-        curl -H 'Cache-Control: no-cache' -o svg/image.svg https://github-readme-status-clone-01.vercel.app/api\?username\=matuyuhi\&show\=reviews,prs_merged,prs_merged_percentage\&hide\=stars\&show_icons\=true\&title_color\=fff\&icon_color\=79ff97\&text_color\=9f9f9f\&bg_color\=151515\&include_all_commits\=true
+        # GitHub Readme Stats
+        curl -H 'Cache-Control: no-cache' -o svg/image.svg "https://github-readme-status-clone-01.vercel.app/api?username=matuyuhi&show=reviews,prs_merged,prs_merged_percentage&hide=stars&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true"
+
+        # GitHub Profile Trophy
+        curl -H 'Cache-Control: no-cache' -o svg/trophy.svg "https://github-profile-trophy-fork-two.vercel.app?username=Matuyuhi&count_private=true&no-frame=true&column=5&rank=-B"
 
     - name: Commit and Push if changed
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add svg/image.svg
-        git commit -m "Add/Update image.svg from URL"
-        git push
+        git add svg/image.svg svg/trophy.svg
+        git diff --staged --quiet || (git commit -m "Add/Update image.svg and trophy.svg from URL" && git push)
