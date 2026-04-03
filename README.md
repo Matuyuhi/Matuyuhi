@@ -10,7 +10,7 @@
   <img height=200 alt="languages" src="https://raw.githubusercontent.com/Matuyuhi/Matuyuhi/main/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg" />
 </div>
 
-<img height=200 alt="Trophy" src="/svg/trophy.svg" />
+
 
 ---
 
@@ -31,6 +31,8 @@ Zig + WebAssemblyで実装した高性能CSSエンジン。データ指向設計
 
 ### [adamant](https://github.com/Matuyuhi/adamant) - GPU-Accelerated Terminal
 Rustで開発された高性能GPU加速型ターミナルエミュレータ。wgpuを使用しVulkan/Metal/DX12に対応、ゲームエンジンの最適化技術を応用した4K/120fps描画を目指す。
+
+<img height=200 alt="Trophy" src="/svg/trophy.svg" />
 <!---
 ### Library
 ![My Library](https://skillicons.dev/icons?i=githubactions,ktor,gradle,cmake,materialui,angular,npm,react,next,bootstrap,nodejs,vue,discordjs,django,express&perline=10)
