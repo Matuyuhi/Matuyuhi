@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">yuhi yamane's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Commits  : 6592, Total PRs: 1701, Total PRs Merged: 1616, Merged PRs Percentage: 95.00, Total PRs Reviewed: 187, Total Issues: 261, Contributed to (last year): 28</desc>
+        <desc id="descId">Total Commits  : 6598, Total PRs: 1701, Total PRs Merged: 1622, Merged PRs Percentage: 95.36, Total PRs Reviewed: 191, Total Issues: 261, Contributed to (last year): 28</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 70.46946298722978;
+        stroke-dashoffset: 70.46766091243506;
       }
     }
   
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >95 %</text>
+      >95.36 %</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="reviews"
-      >187</text>
+      >191</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
