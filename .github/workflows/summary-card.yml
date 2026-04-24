@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     name: generate
     permissions:
       contents: write
@@ -18,5 +18,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: "update/summary-card"
+          BRANCH_NAME: "main"
           EXCLUDE: "ShaderLab"
+          AUTO_PUSH: true
+          
