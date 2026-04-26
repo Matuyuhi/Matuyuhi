@@ -1,24 +1,49 @@
-name: GitHub-Profile-Summary-Cards
+name: GitHub-User-Summary-Cards
 
 on:
-  schedule: # execute every 24 hours
-    - cron: "0 0 */2 * *"
+  schedule:
+    - cron: "0 0 */2 * *"   # every 2 days at 00:00 UTC
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/summary-card.yml
+
+permissions:
+  contents: write
 
 jobs:
-  build:
-    runs-on: ubuntu-slim
-    name: generate
-    permissions:
-      contents: write
+  generate:
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@v0.7.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
+
+      - name: Generate cards
+        uses: matuyuhi/github-user-summary-cards@v0
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: "main"
-          EXCLUDE: "ShaderLab"
-          AUTO_PUSH: true
-          
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
+          THEME: tokyonight
+          EXCLUDE: ShaderLab
+          ALL_TIME: 'true'
+          HUMANIZE: 'true'
+          OUTPUT_DIR: profile-summary-card
+
+      - name: Commit cards
+        env:
+          OUTPUT_DIR: profile-summary-card
+        run: |
+          set -e
+          if [ ! -d "$OUTPUT_DIR" ] || [ -z "$(ls -A "$OUTPUT_DIR" 2>/dev/null)" ]; then
+            echo "no SVGs to commit"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -fA -- "$OUTPUT_DIR"
+          if git diff --cached --quiet; then
+            echo "no changes"
+            exit 0
+          fi
+          git commit -m "chore: regenerate profile summary cards"
+          git push origin HEAD:main
