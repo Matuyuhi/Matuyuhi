@@ -1,12 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=matuyuhi)<br/>
 
 <p align="center">
-  <img src="/svg/image.svg" />
-</p>
-
-<p align="center">
   <img alt="profile" src="./profile-summary-card/profile-details.svg" width="450" />
-  <img alt="stats" src="./profile-summary-card/stats.svg" width="450" />
+  <img alt="stats" src="./svg/image.svg" width="450" />
   <img alt="repos per language" src="./profile-summary-card/repos-per-language.svg" width="450" />
   <img alt="most commit language" src="./profile-summary-card/most-commit-language.svg" width="450" />
 </p>
