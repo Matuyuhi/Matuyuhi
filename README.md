@@ -5,12 +5,9 @@
 </p>
 
 <p align="center">
-  <img alt="profile" src="./profile-summary-card/profile-details.svg" />
-</p>
-
-<p align="center">
-  <img alt="repos per language" src="./profile-summary-card/repos-per-language.svg" />
-  <img alt="most commit language" src="./profile-summary-card/most-commit-language.svg" />
+  <img alt="profile" src="./profile-summary-card/profile-details.svg" width="450" />
+  <img alt="repos per language" src="./profile-summary-card/repos-per-language.svg" width="450" />
+  <img alt="most commit language" src="./profile-summary-card/most-commit-language.svg" width="450" />
 </p>
 
 ---
