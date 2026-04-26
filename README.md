@@ -1,16 +1,17 @@
 ![](https://komarev.com/ghpvc/?username=matuyuhi)<br/>
-<br>
-<!--
-![](https://raw.githubusercontent.com/Matuyuhi/Matuyuhi/main/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/Matuyuhi/Matuyuhi/main/profile-summary-card-output/discord_old_blurple/3-stats.svg)
--->
-<div style="display: flex; flex-direction: row;">
+
+<p align="center">
   <img src="/svg/image.svg" />
-  <br>
-  <img height=200 alt="languages" src="https://raw.githubusercontent.com/Matuyuhi/Matuyuhi/main/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg" />
-</div>
+</p>
 
+<p align="center">
+  <img alt="profile" src="./profile-summary-card/profile-details.svg" />
+</p>
 
+<p align="center">
+  <img alt="repos per language" src="./profile-summary-card/repos-per-language.svg" />
+  <img alt="most commit language" src="./profile-summary-card/most-commit-language.svg" />
+</p>
 
 ---
 
