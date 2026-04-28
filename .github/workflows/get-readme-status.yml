@@ -46,7 +46,7 @@ jobs:
           matuyuhi \
           --file svg/trophy.svg \
           --theme classic \
-          --no-frame true
+          --no-frame true \
           --rows 5 \
           --panel-size 0 \
           --margin-width 10 \
