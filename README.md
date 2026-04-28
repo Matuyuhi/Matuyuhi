@@ -2,7 +2,7 @@
 
 <p align="center">
   <img alt="profile" src="./profile-summary-card/profile-details.svg" width="500" />
-  <img alt="stats" src="./svg/image.svg" width="500" />
+ <!-- <img alt="stats" src="./svg/image.svg" width="500" /> -->
   <img alt="repos per language" src="./profile-summary-card/repos-per-language.svg" width="500" />
   <img alt="most commit language" src="./profile-summary-card/most-commit-language.svg" width="500" />
 </p>
