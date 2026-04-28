@@ -26,20 +26,31 @@ jobs:
         curl -H 'Cache-Control: no-cache' -o svg/image.svg "https://github-readme-status-clone-01.vercel.app/api?username=matuyuhi&show=reviews,prs_merged,prs_merged_percentage&hide=stars&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true"
 
         # GitHub Profile Trophy
-        curl -H 'Cache-Control: no-cache' -o svg/trophy.svg "https://github-profile-trophy-kannan.vercel.app?username=Matuyuhi&count_private=true&no-frame=true&column=5&rank=-B"
-    - name: github-profile-trophy on CI
-      uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        # curl -H 'Cache-Control: no-cache' -o svg/trophy.svg "https://github-profile-trophy-kannan.vercel.app?username=Matuyuhi&count_private=true&no-frame=true&column=5&rank=-B"
+    - name: Setup Deno
+      uses: denoland/setup-deno@v1
       with:
-        token: ${{ secrets.SUMMARY_CARDS_TOKEN }}
-        username: matuyuhi
-        file: svg/trophy.svg
-        theme: classic
-        cols: 5
-        panel-size: 115
-        margin-width: 10
-        margin-height: 10
-        no-background: false
-        no-frame: false
+        deno-version: v1.x
+
+    - name: Clone trophy generator
+      run: |
+        git clone https://github.com/Erik-Donath/github-profile-trophy.git .trophy-gen
+        git -C .trophy-gen checkout eb0893b31de06841663555d10aa43eb7cf27952f
+
+    - name: Generate trophy SVG
+      env:
+        GITHUB_TOKEN1: ${{ secrets.SUMMARY_CARDS_TOKEN }}
+      run: |
+        deno run --allow-net --allow-env --allow-read --allow-write \
+          .trophy-gen/render_svg.ts \
+          matuyuhi \
+          --file svg/trophy.svg \
+          --theme classic \
+          --no-frame true
+          --rows 5 \
+          --panel-size 0 \
+          --margin-width 10 \
+          --margin-height 10
     - name: Commit and Push if changed
       run: |
         git config user.name "github-actions[bot]"
