@@ -5,6 +5,7 @@
  <!-- <img alt="stats" src="./svg/image.svg" width="500" /> -->
   <img alt="repos per language" src="./profile-summary-card/repos-per-language.svg" width="500" />
   <img alt="most commit language" src="./profile-summary-card/most-commit-language.svg" width="500" />
+  <img alt="Contribution to heatmap" src="./profile-summary-card/contribution-heatmap.svg" width="500" />
 </p>
 
 ---
